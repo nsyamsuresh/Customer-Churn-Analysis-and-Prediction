@@ -80,12 +80,6 @@ Run all cells from top to bottom
 
 bashjupyter notebook Customer_Churn_Analysis_and_Prediction.ipynb
 
-Project Structure
-
-.
-├── Customer_Churn_Analysis_and_Prediction.ipynb   # Main analysis notebook
-├── Telco_Customer_Churn_Dataset.csv                # Dataset (not included — add your own)
-└── README.md
 
 License
 
